@@ -1,5 +1,5 @@
-# aquacropgrid_dev
-This repository is work-in-progress for developing code to run the Python library AquaCrop-OSPy in gridded format. Follow these steps to set up the project locally on your machine.
+# aquacropgrid_dev0
+This repository is work-in-progress for developing code to run the Python library AquaCrop-OSPy in gridded format over large areas. Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
 
