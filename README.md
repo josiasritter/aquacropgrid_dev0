@@ -12,13 +12,13 @@ Conda: You'll need either Miniconda or Anaconda installed. Miniconda is generall
   - Access your API Token (Your profile -> API Token). You will need the token as input argument for running the script (step 5 below)
   - Accept “Terms of use” at the bottom of the following two pages:
       - ERA5: https://cds.climate.copernicus.eu/datasets/derived-era5-single-levels-daily-statistics?tab=download
-      - ERA5-Land https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download
-2. Clone this code Repository
+      - ERA5-Land: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download
+2. Clone this code repository
   - From command line (recommended), clone this repository to your local machine using Git (make sure you have Git installed on your system; you can download it from git-scm.com):
-      - git clone https://github.com/josiasritter/aquacropgrid_dev.git
+      - git clone https://github.com/josiasritter/aquacropgrid_dev0.git
   - Alternatively, manually download this repository to the desired location on your computer
 3. Navigate your current working directory to the newly created project directory:
-      - cd aquacropgrid_dev
+      - cd aquacropgrid_dev0
 4. Create a new conda environment and install the required packages:
       - conda env create -f environment.yml
       - conda activate aquacropgrid_dev
